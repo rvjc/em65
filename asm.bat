@@ -1,0 +1,1 @@
+as65 -l -m -h0 test.a65
